@@ -12,7 +12,9 @@ h1 {
   text-align: center;
   margin: 20px 0;
 }
-
+.hidden{
+  display: none;
+}
 /* Input Field and Button */
 #city-input {
   display: block;
